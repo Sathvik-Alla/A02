@@ -1,3 +1,5 @@
+Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+
 Branch
 Clone
 Commit
@@ -9,5 +11,5 @@ Merge Conflict
 Push
 Pull
 Remote
-Repository # 
+Repository# 
  A02
